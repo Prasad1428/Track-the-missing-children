@@ -1,0 +1,12 @@
+.Login{
+    width: 40%;
+    height: 40%;
+    position: absolute;
+    left:500px;
+    top:200px;
+    align-content: center;
+}
+.form-control ,.btn{
+    width: 400px;
+    padding: 10px 5px 10px;
+}
